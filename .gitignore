@@ -63,3 +63,9 @@ target/
 
 # OS X
 .DS_Store
+
+# VSCode Config Files
+.vscode
+
+# Python Virtual Environment
+venv
