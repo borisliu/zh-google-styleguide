@@ -7,8 +7,8 @@ TypeScript 风格指南 - 内容目录
 
 .. toctree::
 
-    syntax
-    language_rules
-    source_organization
-    type_system
-    consistency
+    syntax.md
+    language_rules.md
+    source_organization.md
+    type_system.md
+    consistency.md
